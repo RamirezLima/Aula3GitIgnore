@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Ramirez Soares Lima
 Eduardo de Oliveira Graciano
+=======
+Ramirez Soares Lima 821132126
+>>>>>>> e884709830014efb642bdca3022b0cbfeaf20ee6
